@@ -21,3 +21,6 @@ Here is how I would divide my labor: Excel for one-time investigation and ad hoc
 My gap is real: I've never published a report to the Power BI Service or maintained one that other people depend on and refresh independently of me. I'd close it by asking to own a small recurring Southwest report end-to-end, including the refresh schedule, so I learn what breaks after I've moved on to the next thing. 
 Vishnu
 Please note: AI was used to edit and formalize this note, while the content and thoughts are original. 
+
+Advancing in Excel & Tableau - Pt. 3 (Card Portfolio Review - Contactless Readiness): Which non-contactless cards should Bear Down Bank replace early in one batch, how many are there, and what will it cost? If I did it again, I would add a view showing the fallback batch of cards with more than 12 months left (211 cards, $1,688), so Renee could see a smaller option side by side. 
+https://public.tableau.com/app/profile/vishnu.akumalla/viz/CardPortfolioReview_17924780898620/ExploratoryDash
