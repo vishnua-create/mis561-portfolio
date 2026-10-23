@@ -24,3 +24,7 @@ Please note: AI was used to edit and formalize this note, while the content and 
 
 Advancing in Excel & Tableau - Pt. 3 (Card Portfolio Review - Contactless Readiness): Which non-contactless cards should Bear Down Bank replace early in one batch, how many are there, and what will it cost? If I did it again, I would add a view showing the fallback batch of cards with more than 12 months left (211 cards, $1,688), so Renee could see a smaller option side by side. 
 https://public.tableau.com/app/profile/vishnu.akumalla/viz/CardPortfolioReview_17924780898620/ExploratoryDash
+
+Advancing in Excel & Tableau - Pt. 4 (Card Growth Analysis - Wildcats Rewards Offer): Which group of Bear Down customers should receive the pilot mailing of the Wildcat Rewards card, based on where the most customers qualify under Credit Risk's guardrails?
+https://public.tableau.com/app/profile/vishnu.akumalla/viz/CardGrowthAnalysis-WildcatRewardsOffer/ExploratoryDashboard
+If I did it again, I would add a minimum-customers control to the state chart, so a viewer could see small, high-rate states like Colorado (13 of 23 customers) instead of my fixed 50-customer cutoff hiding them. 
