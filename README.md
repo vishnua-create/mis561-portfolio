@@ -28,3 +28,11 @@ https://public.tableau.com/app/profile/vishnu.akumalla/viz/CardPortfolioReview_1
 Advancing in Excel & Tableau - Pt. 4 (Card Growth Analysis - Wildcats Rewards Offer): Which group of Bear Down customers should receive the pilot mailing of the Wildcat Rewards card, based on where the most customers qualify under Credit Risk's guardrails?
 https://public.tableau.com/app/profile/vishnu.akumalla/viz/CardGrowthAnalysis-WildcatRewardsOffer/ExploratoryDashboard
 If I did it again, I would add a minimum-customers control to the state chart, so a viewer could see small, high-rate states like Colorado (13 of 23 customers) instead of my fixed 50-customer cutoff hiding them. 
+
+Nov 1, 2026 - Data Storytelling with Adobe Express
+Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: pilot the Wildcat Rewards Card mailing in Texas, where 68 customers (42.8% of Texas' 159) are eligible at the 670 FICO cutoff. 
+Work sample: https://github.com/vishnua-create/mis561-portfolio/blob/main/adobe/akumalla-data-storytelling.pdf
+Adobe Express: https://new.express.adobe.com/id/urn:aaid:sc:US:bcf63092-1488-425a-be55-abc653793f5d?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+Design choice: I used a ranked horizontal bar chart with Texas highlighted because Jordan has to choose one group, and the bars show Texas 15.9 points ahead of the next-best state without any explanation. I considered a map of states, but shading is harder to compare precisely. I cut the chart from twelve states to the top five plus the bank-wide rate; the lower seven did not change the decision and only added clutter. 
+Training completed: Nov 1, 2026
+AI use: Anthropic. (2026). Claude (Sonnet 5.5) used November 1, 2026, to plan the page, check figures, edit and spell-check text, and generate a reference chart image from figures I supplied. 
