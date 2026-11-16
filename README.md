@@ -42,3 +42,16 @@ Design choice: I used a ranked horizontal bar chart with Texas highlighted becau
 Training completed: Nov 1, 2026
 
 AI use: Anthropic. (2026). Claude (Sonnet 5.5) used November 1, 2026, to plan the page, check figures, edit and spell-check text, and generate a reference chart image from figures I supplied. 
+
+Nov 16, 2026: Product Pitch with Generative AI in Adobe Express
+
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first phase to pilot the Wildcat Rewards Card in Texas. 
+
+Pitch deck:
+Adobe Express: https://new.express.adobe.com/id/urn:aaid:sc:US:806f51e9-fcbc-4bee-a11a-2c61864fee65?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
+
+Toughest objection: "68 customers is too few to prove the offer works." Slide 6 answers it: the pilot tests whether eligible Texas customers respond at all, and Phase 2 adds North Carolina, Georgia and Ohio (58 more eligible customers, 126 in total) before any full-launch decision. 
+
+AI use: Claude, Nov 16, 2026: used to plan the deck structure and slide titles, advise on formatting, and play the executive to find the toughest objection. No AI-generated images or data. 
+
+Training completed: Nov 16, 2026
