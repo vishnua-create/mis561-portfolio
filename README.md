@@ -47,7 +47,7 @@ Nov 16, 2026: Product Pitch with Generative AI in Adobe Express
 
 Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first phase to pilot the Wildcat Rewards Card in Texas. 
 
-Pitch deck:
+Pitch deck: https://github.com/vishnua-create/mis561-portfolio/blob/main/adobe/akumalla-product-pitch.pdf
 Adobe Express: https://new.express.adobe.com/id/urn:aaid:sc:US:806f51e9-fcbc-4bee-a11a-2c61864fee65?accept=true&invite=true&promoid=Z2G1FQKR&mv=other
 
 Toughest objection: "68 customers is too few to prove the offer works." Slide 6 answers it: the pilot tests whether eligible Texas customers respond at all, and Phase 2 adds North Carolina, Georgia and Ohio (58 more eligible customers, 126 in total) before any full-launch decision. 
